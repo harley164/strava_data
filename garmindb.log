@@ -8,7 +8,7 @@ INFO:root:load session from /Users/daviddangelo/.GarminDb/garth_session
 INFO:root:login: David DAngelo (ddangelo)
 INFO:root:Fetching 25 activities to /Users/daviddangelo/HealthData/FitFiles/Activities
 INFO:root:get_activity_types: '/Users/daviddangelo/HealthData/FitFiles/Activities'
-INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/garmindb/download.py:Getting activities: '/Users/daviddangelo/HealthData/FitFiles/Activities' (25) temp /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmp0qb28vac
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/garmindb/download.py:Getting activities: '/Users/daviddangelo/HealthData/FitFiles/Activities' (25) temp /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmpxdrj2mcd
 INFO:root:get_activity_summaries
 INFO:root:get_activities: Denver Running (25012977854)
 INFO:root:get_activities: skipping download of 25012977854, already present
@@ -60,7 +60,7 @@ INFO:root:get_activities: Denver Running (24385889674)
 INFO:root:get_activities: skipping download of 24385889674, already present
 INFO:root:get_activities: Jefferson County Mountain Biking (24364195751)
 INFO:root:get_activities: skipping download of 24364195751, already present
-INFO:root:unzip_files: from /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmp0qb28vac to /Users/daviddangelo/HealthData/FitFiles/Activities
+INFO:root:unzip_files: from /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmpxdrj2mcd to /Users/daviddangelo/HealthData/FitFiles/Activities
 INFO:/Library/Frameworks/Python.framework/Versions/3.10/bin/garmindb_cli.py:Downloading latest monitoring data from: 2026-08-09 23:59:00
 INFO:root:Date range to update: 2026-08-08 (92) to /Users/daviddangelo/HealthData/FitFiles/Monitoring
 INFO:root:Getting daily summaries: 2026-08-08 (92)
@@ -158,7 +158,7 @@ INFO:root:get_summary_day: 2026-11-06
 INFO:root:get_summary_day: 2026-11-07
 INFO:root:Getting hydration: 2026-08-08 (92)
 INFO:root:Getting monitoring: 2026-08-08 (92)
-INFO:root:get_monitoring_day: 2026-08-08 to /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmp460r02h0
+INFO:root:get_monitoring_day: 2026-08-08 to /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmpfurcys6b
 WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Read timed out. (read timeout=10)")': /download-service/files/wellness/2026-08-08
 WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Read timed out. (read timeout=10)")': /download-service/files/wellness/2026-08-08
 WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Read timed out. (read timeout=10)")': /download-service/files/wellness/2026-08-08
