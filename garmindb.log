@@ -1,0 +1,164 @@
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/idbutils/version.py:/Library/Frameworks/Python.framework/Versions/3.10/bin/garmindb_cli.py has been tested on Python 1...1...0
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/idbutils/version.py:/Library/Frameworks/Python.framework/Versions/3.10/bin/garmindb_cli.py 1...1...0
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/garmindb/plugin_manager.py:Loading GarminDb plugins from /Users/daviddangelo/HealthData/Plugins
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/idbutils/plugin.py:Loading plugins from /Users/daviddangelo/HealthData/Plugins
+INFO:root:Enabled statistics: [<Statistics.monitoring: 1>, <Statistics.steps: 2>, <Statistics.itime: 3>, <Statistics.sleep: 4>, <Statistics.rhr: 5>, <Statistics.hrv: 8>, <Statistics.weight: 6>, <Statistics.activities: 7>]
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/bin/garmindb_cli.py:___Downloading Latest Data___
+INFO:root:load session from /Users/daviddangelo/.GarminDb/garth_session
+INFO:root:login: David DAngelo (ddangelo)
+INFO:root:Fetching 25 activities to /Users/daviddangelo/HealthData/FitFiles/Activities
+INFO:root:get_activity_types: '/Users/daviddangelo/HealthData/FitFiles/Activities'
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/garmindb/download.py:Getting activities: '/Users/daviddangelo/HealthData/FitFiles/Activities' (25) temp /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmp0qb28vac
+INFO:root:get_activity_summaries
+INFO:root:get_activities: Denver Running (25012977854)
+INFO:root:get_activities: skipping download of 25012977854, already present
+INFO:root:get_activities: Baton Rouge Running (25000497500)
+INFO:root:get_activities: skipping download of 25000497500, already present
+INFO:root:get_activities: Baton Rouge Running (24988585236)
+INFO:root:get_activities: skipping download of 24988585236, already present
+INFO:root:get_activities: Baton Rouge Running (24977523724)
+INFO:root:get_activities: skipping download of 24977523724, already present
+INFO:root:get_activities: Lake Havasu City Running (24762422049)
+INFO:root:get_activities: skipping download of 24762422049, already present
+INFO:root:get_activities: Denver Running (24747818894)
+INFO:root:get_activities: skipping download of 24747818894, already present
+INFO:root:get_activities: Idaho Springs Mountain Biking (24701869397)
+INFO:root:get_activities: skipping download of 24701869397, already present
+INFO:root:get_activities: Monterey County Hiking (24677256750)
+INFO:root:get_activities: skipping download of 24677256750, already present
+INFO:root:get_activities: Monterey County Trail Running (24677256278)
+INFO:root:get_activities: skipping download of 24677256278, already present
+INFO:root:get_activities: Monterey County Trail Running (24677087670)
+INFO:root:get_activities: skipping download of 24677087670, already present
+INFO:root:get_activities: Monterey County Running (24667549914)
+INFO:root:get_activities: skipping download of 24667549914, already present
+INFO:root:get_activities: Chicago Trail Running (24663497349)
+INFO:root:get_activities: skipping download of 24663497349, already present
+INFO:root:get_activities: Bar Harbor Road Cycling (24644823785)
+INFO:root:get_activities: skipping download of 24644823785, already present
+INFO:root:get_activities: Denver Running (24571932866)
+INFO:root:get_activities: skipping download of 24571932866, already present
+INFO:root:get_activities: LR Hike 01 (24587734958)
+INFO:root:get_activities: skipping download of 24587734958, already present
+INFO:root:get_activities: Oia Trail Running (24545832471)
+INFO:root:get_activities: skipping download of 24545832471, already present
+INFO:root:get_activities: Thira Trail Running (24531021247)
+INFO:root:get_activities: skipping download of 24531021247, already present
+INFO:root:get_activities: Sfakia Cycling (24503085036)
+INFO:root:get_activities: skipping download of 24503085036, already present
+INFO:root:get_activities: Chania Running (24458303893)
+INFO:root:get_activities: skipping download of 24458303893, already present
+INFO:root:get_activities: Chania Running (24445651893)
+INFO:root:get_activities: skipping download of 24445651893, already present
+INFO:root:get_activities: Chania Running (24434951160)
+INFO:root:get_activities: skipping download of 24434951160, already present
+INFO:root:get_activities: Chania Running (24419839413)
+INFO:root:get_activities: skipping download of 24419839413, already present
+INFO:root:get_activities: Denver Running (24397607773)
+INFO:root:get_activities: skipping download of 24397607773, already present
+INFO:root:get_activities: Denver Running (24385889674)
+INFO:root:get_activities: skipping download of 24385889674, already present
+INFO:root:get_activities: Jefferson County Mountain Biking (24364195751)
+INFO:root:get_activities: skipping download of 24364195751, already present
+INFO:root:unzip_files: from /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmp0qb28vac to /Users/daviddangelo/HealthData/FitFiles/Activities
+INFO:/Library/Frameworks/Python.framework/Versions/3.10/bin/garmindb_cli.py:Downloading latest monitoring data from: 2026-08-09 23:59:00
+INFO:root:Date range to update: 2026-08-08 (92) to /Users/daviddangelo/HealthData/FitFiles/Monitoring
+INFO:root:Getting daily summaries: 2026-08-08 (92)
+INFO:root:get_summary_day: 2026-08-08
+INFO:root:get_summary_day: 2026-08-09
+INFO:root:get_summary_day: 2026-08-10
+INFO:root:get_summary_day: 2026-08-11
+INFO:root:get_summary_day: 2026-08-12
+INFO:root:get_summary_day: 2026-08-13
+INFO:root:get_summary_day: 2026-08-14
+INFO:root:get_summary_day: 2026-08-15
+INFO:root:get_summary_day: 2026-08-16
+INFO:root:get_summary_day: 2026-08-17
+INFO:root:get_summary_day: 2026-08-18
+INFO:root:get_summary_day: 2026-08-19
+INFO:root:get_summary_day: 2026-08-20
+INFO:root:get_summary_day: 2026-08-21
+INFO:root:get_summary_day: 2026-08-22
+INFO:root:get_summary_day: 2026-08-23
+INFO:root:get_summary_day: 2026-08-24
+INFO:root:get_summary_day: 2026-08-25
+INFO:root:get_summary_day: 2026-08-26
+INFO:root:get_summary_day: 2026-08-27
+INFO:root:get_summary_day: 2026-08-28
+INFO:root:get_summary_day: 2026-08-29
+INFO:root:get_summary_day: 2026-08-30
+INFO:root:get_summary_day: 2026-08-31
+INFO:root:get_summary_day: 2026-09-01
+INFO:root:get_summary_day: 2026-09-02
+INFO:root:get_summary_day: 2026-09-03
+INFO:root:get_summary_day: 2026-09-04
+INFO:root:get_summary_day: 2026-09-05
+INFO:root:get_summary_day: 2026-09-06
+INFO:root:get_summary_day: 2026-09-07
+INFO:root:get_summary_day: 2026-09-08
+INFO:root:get_summary_day: 2026-09-09
+INFO:root:get_summary_day: 2026-09-10
+INFO:root:get_summary_day: 2026-09-11
+INFO:root:get_summary_day: 2026-09-12
+INFO:root:get_summary_day: 2026-09-13
+INFO:root:get_summary_day: 2026-09-14
+INFO:root:get_summary_day: 2026-09-15
+INFO:root:get_summary_day: 2026-09-16
+INFO:root:get_summary_day: 2026-09-17
+INFO:root:get_summary_day: 2026-09-18
+INFO:root:get_summary_day: 2026-09-19
+INFO:root:get_summary_day: 2026-09-20
+INFO:root:get_summary_day: 2026-09-21
+INFO:root:get_summary_day: 2026-09-22
+INFO:root:get_summary_day: 2026-09-23
+INFO:root:get_summary_day: 2026-09-24
+INFO:root:get_summary_day: 2026-09-25
+INFO:root:get_summary_day: 2026-09-26
+INFO:root:get_summary_day: 2026-09-27
+INFO:root:get_summary_day: 2026-09-28
+INFO:root:get_summary_day: 2026-09-29
+INFO:root:get_summary_day: 2026-09-30
+INFO:root:get_summary_day: 2026-10-01
+INFO:root:get_summary_day: 2026-10-02
+INFO:root:get_summary_day: 2026-10-03
+INFO:root:get_summary_day: 2026-10-04
+INFO:root:get_summary_day: 2026-10-05
+INFO:root:get_summary_day: 2026-10-06
+INFO:root:get_summary_day: 2026-10-07
+INFO:root:get_summary_day: 2026-10-08
+INFO:root:get_summary_day: 2026-10-09
+INFO:root:get_summary_day: 2026-10-10
+INFO:root:get_summary_day: 2026-10-11
+INFO:root:get_summary_day: 2026-10-12
+INFO:root:get_summary_day: 2026-10-13
+INFO:root:get_summary_day: 2026-10-14
+INFO:root:get_summary_day: 2026-10-15
+INFO:root:get_summary_day: 2026-10-16
+INFO:root:get_summary_day: 2026-10-17
+INFO:root:get_summary_day: 2026-10-18
+INFO:root:get_summary_day: 2026-10-19
+INFO:root:get_summary_day: 2026-10-20
+INFO:root:get_summary_day: 2026-10-21
+INFO:root:get_summary_day: 2026-10-22
+INFO:root:get_summary_day: 2026-10-23
+INFO:root:get_summary_day: 2026-10-24
+INFO:root:get_summary_day: 2026-10-25
+INFO:root:get_summary_day: 2026-10-26
+INFO:root:get_summary_day: 2026-10-27
+INFO:root:get_summary_day: 2026-10-28
+INFO:root:get_summary_day: 2026-10-29
+INFO:root:get_summary_day: 2026-10-30
+INFO:root:get_summary_day: 2026-10-31
+INFO:root:get_summary_day: 2026-11-01
+INFO:root:get_summary_day: 2026-11-02
+INFO:root:get_summary_day: 2026-11-03
+INFO:root:get_summary_day: 2026-11-04
+INFO:root:get_summary_day: 2026-11-05
+INFO:root:get_summary_day: 2026-11-06
+INFO:root:get_summary_day: 2026-11-07
+INFO:root:Getting hydration: 2026-08-08 (92)
+INFO:root:Getting monitoring: 2026-08-08 (92)
+INFO:root:get_monitoring_day: 2026-08-08 to /var/folders/72/q32pt2_12wx43hpj0_lb6ywh0000gn/T/tmp460r02h0
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Read timed out. (read timeout=10)")': /download-service/files/wellness/2026-08-08
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Read timed out. (read timeout=10)")': /download-service/files/wellness/2026-08-08
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Read timed out. (read timeout=10)")': /download-service/files/wellness/2026-08-08
